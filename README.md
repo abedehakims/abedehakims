@@ -28,6 +28,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abedehakims&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="abedehakims's GitHub Stats" />
 <img src="https://streak-stats.demolab.com?user=abedehakims&theme=tokyonight&hide_border=true" alt="abedehakims's GitHub Stats" />
 
+<h3 align="left">Play With Me!</h3>
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abedehakims/abedehakims/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abedehakims/abedehakims/pacman-output/galaga-contribution-graph.svg?game=galaga">
