@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abd. Hakim Maulana Siddiq</h1>
+<img align="center" width="2550" height="612" alt="github-header-banner" src="https://github.com/user-attachments/assets/1293a7e8-f0bc-4689-bea9-7f1abc01c9c6" /></img>
+<h1 align="center">Hi 👋, call me Abdul</h1>
 <h3 align="center">A passionate Mobile App developer from Indonesia, a third-semester student at Telkom University who works as a freelancer. Vocational high school (SMK) graduate specializing in computer and network engineering, with certification from the Professional Certification Institute (LSP)</h3>
 
 - 🔭 I’m currently working as a [Freelancer](https://www.instagram.com/dulmaulana.14?cplk=MTFlaWt6cXdjMXZrcw==)
@@ -20,6 +21,20 @@
 - 📄 Know about my experiences [https://abdhakims-instantportfolio.netlify.app/](https://abdhakims-instantportfolio.netlify.app/)
 
 - ⚡ Fun fact **I am a perfectionist, yet optimistic, disciplined, and visionary.**
+
+<h3 align="left">My Github Stats</h3>
+
+<img src="https://github-readme-stats.vercel.app/api?username=abedehakims&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="abedehakims's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abedehakims&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="abedehakims's GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=abedehakims&theme=tokyonight&hide_border=true" alt="abedehakims's GitHub Stats" />
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abedehakims/abedehakims/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abedehakims/abedehakims/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abedehakims/abedehakims/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
+
+###
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
