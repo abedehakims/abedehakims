@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Deploying on PlayStore, basic of mobile app, layouting and structuring**
 
-- 📫 How to reach me **ahakimmaulana07@gmail.com**
+- 📫 How to reach me **abdulhakimmaulana070@gmail.com**
 
 - 📄 Know about my experiences [https://abdhakims-instantportfolio.netlify.app/](https://abdhakims-instantportfolio.netlify.app/)
 
